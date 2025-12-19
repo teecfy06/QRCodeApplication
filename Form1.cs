@@ -1,4 +1,4 @@
-namespace ORCodeApplication
+namespace QRCodeApplication
 {
     public partial class Form1 : Form
     {

@@ -1,4 +1,4 @@
-namespace ORCodeApplication
+namespace QRCodeApplication
 {
     internal static class Program
     {

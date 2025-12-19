@@ -9,7 +9,7 @@ using ZXing;
 using ZXing.Common;
 using QRCoder;
 
-namespace ORCodeApplication
+namespace QRCodeApplication
 {
     public partial class GenerateForm : Form
     {

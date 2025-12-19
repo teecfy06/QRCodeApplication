@@ -9,7 +9,7 @@ using ZXing;
 using ZXing.Common;
 using IronBarCode;
 
-namespace ORCodeApplication
+namespace QRCodeApplication
 {
     public partial class ReadForm : Form
     {
